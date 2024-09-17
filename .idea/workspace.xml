@@ -15,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -47,6 +48,7 @@
   "keyToString": {
     "Application.AdapterMain.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MediatorMain.executor": "Run",
     "Application.MementoMain.executor": "Run",
     "Application.SingletonMain.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -71,10 +73,20 @@
       <recent name="C:\Users\RAMINDU\Desktop\Design Patterns\Structural Patterns\Adapter" />
       <recent name="C:\Users\RAMINDU\Desktop\Design Patterns\Creational Patterns\Singleton" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.MementoMain">
+  <component name="RunManager" selected="Application.MediatorMain">
     <configuration name="AdapterMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AdapterMain" />
+      <module name="Design Patterns" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MediatorMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MediatorMain" />
       <module name="Design Patterns" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,12 +107,14 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.MediatorMain" />
       <item itemvalue="Application.MementoMain" />
       <item itemvalue="Application.SingletonMain" />
       <item itemvalue="Application.AdapterMain" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MediatorMain" />
         <item itemvalue="Application.MementoMain" />
         <item itemvalue="Application.SingletonMain" />
         <item itemvalue="Application.AdapterMain" />
@@ -127,7 +141,7 @@
       <workItem from="1726586524053" duration="625000" />
       <workItem from="1726587159001" duration="438000" />
       <workItem from="1726587605997" duration="853000" />
-      <workItem from="1726603987772" duration="2020000" />
+      <workItem from="1726603987772" duration="7222000" />
     </task>
     <servers />
   </component>
