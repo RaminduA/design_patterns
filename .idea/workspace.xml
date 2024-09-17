@@ -4,11 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3aba896f-9199-4936-acc6-02b314fef2a7" name="Changes" comment="" />
+    <list default="true" id="3aba896f-9199-4936-acc6-02b314fef2a7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -38,6 +47,7 @@
   "keyToString": {
     "Application.AdapterMain.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MementoMain.executor": "Run",
     "Application.SingletonMain.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "dart.analysis.tool.window.visible": "false",
@@ -62,9 +72,16 @@
       <recent name="C:\Users\RAMINDU\Desktop\Design Patterns\Creational Patterns\Singleton" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SingletonMain">
+  <component name="RunManager" selected="Application.MementoMain">
     <configuration name="AdapterMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AdapterMain" />
+      <module name="Design Patterns" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MementoMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MementoMain" />
       <module name="Design Patterns" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +95,13 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.MementoMain" />
       <item itemvalue="Application.SingletonMain" />
       <item itemvalue="Application.AdapterMain" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MementoMain" />
         <item itemvalue="Application.SingletonMain" />
         <item itemvalue="Application.AdapterMain" />
       </list>
@@ -107,7 +126,8 @@
       <workItem from="1726504478155" duration="2996000" />
       <workItem from="1726586524053" duration="625000" />
       <workItem from="1726587159001" duration="438000" />
-      <workItem from="1726587605997" duration="792000" />
+      <workItem from="1726587605997" duration="853000" />
+      <workItem from="1726603987772" duration="2020000" />
     </task>
     <servers />
   </component>
