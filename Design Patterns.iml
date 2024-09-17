@@ -5,6 +5,27 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/Creational Patterns/Singleton" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Structural Patterns/Adapter" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Behavioral Patterns/Chain of Responsibility" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Behavioral Patterns/Command" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Behavioral Patterns/Interpreter" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Behavioral Patterns/Iterator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Behavioral Patterns/Mediator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Behavioral Patterns/Memento" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Behavioral Patterns/Observer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Behavioral Patterns/State" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Behavioral Patterns/Strategy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Behavioral Patterns/Template Method" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Behavioral Patterns/Visitor" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Creational Patterns/Abstract Factory" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Creational Patterns/Builder" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Creational Patterns/Factory" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Creational Patterns/Prototype" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Structural Patterns/Bridge" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Structural Patterns/Composite" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Structural Patterns/Decorator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Structural Patterns/Facade" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Structural Patterns/Flyweight" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Structural Patterns/Proxy" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
