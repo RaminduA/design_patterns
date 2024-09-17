@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3aba896f-9199-4936-acc6-02b314fef2a7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design Patterns.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Design Patterns.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design Patterns/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Design Patterns/Singleton.class" beforeDir="false" />
-    </list>
+    <list default="true" id="3aba896f-9199-4936-acc6-02b314fef2a7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +61,7 @@
       <recent name="C:\Users\RAMINDU\Desktop\Design Patterns\Creational Patterns\Singleton" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AdapterMain">
+  <component name="RunManager" selected="Application.SingletonMain">
     <configuration name="AdapterMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AdapterMain" />
       <module name="Design Patterns" />
@@ -74,22 +69,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="SingletonMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SingletonMain" />
       <module name="Design Patterns" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Creational Patterns/Singleton" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.SingletonMain" />
       <item itemvalue="Application.AdapterMain" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SingletonMain" />
         <item itemvalue="Application.AdapterMain" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -112,7 +106,7 @@
       <workItem from="1726504478155" duration="2996000" />
       <workItem from="1726586524053" duration="625000" />
       <workItem from="1726587159001" duration="438000" />
-      <workItem from="1726587605997" duration="389000" />
+      <workItem from="1726587605997" duration="534000" />
     </task>
     <servers />
   </component>
