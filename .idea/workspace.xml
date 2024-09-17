@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="3aba896f-9199-4936-acc6-02b314fef2a7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Structural Patterns/Decorator/ConcreteBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/Structural Patterns/Decorator/ConcreteBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Structural Patterns/Decorator/DecoratorMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Structural Patterns/Decorator/DecoratorMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +49,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AdapterMain.executor": "Run",
+    "Application.DecoratorMain.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MediatorMain.executor": "Run",
     "Application.MementoMain.executor": "Run",
@@ -77,9 +80,16 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MediatorMain">
+  <component name="RunManager" selected="Application.DecoratorMain">
     <configuration name="AdapterMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AdapterMain" />
+      <module name="Design Patterns" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DecoratorMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DecoratorMain" />
       <module name="Design Patterns" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -107,6 +117,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.DecoratorMain" />
       <item itemvalue="Application.MediatorMain" />
       <item itemvalue="Application.MementoMain" />
       <item itemvalue="Application.SingletonMain" />
@@ -114,6 +125,7 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DecoratorMain" />
         <item itemvalue="Application.MediatorMain" />
         <item itemvalue="Application.MementoMain" />
         <item itemvalue="Application.SingletonMain" />
@@ -141,7 +153,7 @@
       <workItem from="1726586524053" duration="625000" />
       <workItem from="1726587159001" duration="438000" />
       <workItem from="1726587605997" duration="853000" />
-      <workItem from="1726603987772" duration="7222000" />
+      <workItem from="1726603987772" duration="10338000" />
     </task>
     <servers />
   </component>
