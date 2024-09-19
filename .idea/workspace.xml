@@ -47,6 +47,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AdapterMain.executor": "Run",
+    "Application.ChainOfResponsibilityMain.executor": "Run",
     "Application.DecoratorMain.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MediatorMain.executor": "Run",
@@ -79,7 +80,14 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TemplateMethodMain">
+  <component name="RunManager" selected="Application.ChainOfResponsibilityMain">
+    <configuration name="ChainOfResponsibilityMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChainOfResponsibilityMain" />
+      <module name="Design Patterns" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DecoratorMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DecoratorMain" />
       <module name="Design Patterns" />
@@ -101,13 +109,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingletonMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SingletonMain" />
-      <module name="Design Patterns" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TemplateMethodMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TemplateMethodMain" />
       <module name="Design Patterns" />
@@ -116,19 +117,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.ChainOfResponsibilityMain" />
       <item itemvalue="Application.DecoratorMain" />
       <item itemvalue="Application.MediatorMain" />
       <item itemvalue="Application.MementoMain" />
       <item itemvalue="Application.TemplateMethodMain" />
-      <item itemvalue="Application.SingletonMain" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ChainOfResponsibilityMain" />
         <item itemvalue="Application.TemplateMethodMain" />
         <item itemvalue="Application.DecoratorMain" />
         <item itemvalue="Application.MediatorMain" />
         <item itemvalue="Application.MementoMain" />
-        <item itemvalue="Application.SingletonMain" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +153,8 @@
       <workItem from="1726586524053" duration="625000" />
       <workItem from="1726587159001" duration="438000" />
       <workItem from="1726587605997" duration="853000" />
-      <workItem from="1726603987772" duration="12470000" />
+      <workItem from="1726603987772" duration="12576000" />
+      <workItem from="1726767560142" duration="1968000" />
     </task>
     <servers />
   </component>
