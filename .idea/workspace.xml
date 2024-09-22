@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3aba896f-9199-4936-acc6-02b314fef2a7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Behavioral Patterns/State/StateB.java" beforeDir="false" afterPath="$PROJECT_DIR$/Behavioral Patterns/State/StateB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Behavioral Patterns/State/StateC.java" beforeDir="false" afterPath="$PROJECT_DIR$/Behavioral Patterns/State/StateC.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,8 +55,10 @@
     "Application.Main.executor": "Run",
     "Application.MediatorMain.executor": "Run",
     "Application.MementoMain.executor": "Run",
+    "Application.PrototypeMain.executor": "Run",
     "Application.ProxyMain.executor": "Run",
     "Application.SingletonMain.executor": "Run",
+    "Application.StateMain.executor": "Run",
     "Application.TemplateMethodMain.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "dart.analysis.tool.window.visible": "false",
@@ -89,7 +89,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StateMain">
+  <component name="RunManager" selected="Application.PrototypeMain">
     <configuration name="AbstractFactoryMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AbstractFactoryMain" />
       <module name="Design Patterns" />
@@ -97,15 +97,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChainOfResponsibilityMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ChainOfResponsibilityMain" />
+    <configuration name="FactoryMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FactoryMain" />
       <module name="Design Patterns" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FactoryMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FactoryMain" />
+    <configuration name="PrototypeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrototypeMain" />
       <module name="Design Patterns" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -126,19 +126,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.PrototypeMain" />
       <item itemvalue="Application.ProxyMain" />
       <item itemvalue="Application.StateMain" />
       <item itemvalue="Application.AbstractFactoryMain" />
-      <item itemvalue="Application.ChainOfResponsibilityMain" />
       <item itemvalue="Application.FactoryMain" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrototypeMain" />
         <item itemvalue="Application.StateMain" />
         <item itemvalue="Application.ProxyMain" />
         <item itemvalue="Application.AbstractFactoryMain" />
         <item itemvalue="Application.FactoryMain" />
-        <item itemvalue="Application.ChainOfResponsibilityMain" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +164,7 @@
       <workItem from="1726587605997" duration="853000" />
       <workItem from="1726603987772" duration="12576000" />
       <workItem from="1726767560142" duration="12103000" />
-      <workItem from="1727002234213" duration="6039000" />
+      <workItem from="1727002234213" duration="10818000" />
     </task>
     <servers />
   </component>
