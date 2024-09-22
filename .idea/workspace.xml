@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3aba896f-9199-4936-acc6-02b314fef2a7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Behavioral Patterns/Command/CommandMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Behavioral Patterns/Command/CommandMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +90,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PrototypeMain">
+  <component name="RunManager" selected="Application.CommandMain">
     <configuration name="AbstractFactoryMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AbstractFactoryMain" />
       <module name="Design Patterns" />
@@ -97,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FactoryMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FactoryMain" />
+    <configuration name="CommandMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CommandMain" />
       <module name="Design Patterns" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -126,19 +127,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.CommandMain" />
       <item itemvalue="Application.PrototypeMain" />
       <item itemvalue="Application.ProxyMain" />
       <item itemvalue="Application.StateMain" />
       <item itemvalue="Application.AbstractFactoryMain" />
-      <item itemvalue="Application.FactoryMain" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CommandMain" />
         <item itemvalue="Application.PrototypeMain" />
         <item itemvalue="Application.StateMain" />
         <item itemvalue="Application.ProxyMain" />
         <item itemvalue="Application.AbstractFactoryMain" />
-        <item itemvalue="Application.FactoryMain" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +165,7 @@
       <workItem from="1726587605997" duration="853000" />
       <workItem from="1726603987772" duration="12576000" />
       <workItem from="1726767560142" duration="12103000" />
-      <workItem from="1727002234213" duration="10818000" />
+      <workItem from="1727002234213" duration="13634000" />
     </task>
     <servers />
   </component>
