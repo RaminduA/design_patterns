@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="3aba896f-9199-4936-acc6-02b314fef2a7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Structural Patterns/Proxy/ProxyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Structural Patterns/Proxy/ProxyMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Structural Patterns/Proxy/ProxyServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Structural Patterns/Proxy/ProxyServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Behavioral Patterns/State/StateB.java" beforeDir="false" afterPath="$PROJECT_DIR$/Behavioral Patterns/State/StateB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Behavioral Patterns/State/StateC.java" beforeDir="false" afterPath="$PROJECT_DIR$/Behavioral Patterns/State/StateC.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +89,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ProxyMain">
+  <component name="RunManager" selected="Application.StateMain">
     <configuration name="AbstractFactoryMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AbstractFactoryMain" />
       <module name="Design Patterns" />
@@ -118,8 +118,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TemplateMethodMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TemplateMethodMain" />
+    <configuration name="StateMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StateMain" />
       <module name="Design Patterns" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -127,18 +127,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.ProxyMain" />
+      <item itemvalue="Application.StateMain" />
       <item itemvalue="Application.AbstractFactoryMain" />
       <item itemvalue="Application.ChainOfResponsibilityMain" />
       <item itemvalue="Application.FactoryMain" />
-      <item itemvalue="Application.TemplateMethodMain" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StateMain" />
         <item itemvalue="Application.ProxyMain" />
         <item itemvalue="Application.AbstractFactoryMain" />
         <item itemvalue="Application.FactoryMain" />
         <item itemvalue="Application.ChainOfResponsibilityMain" />
-        <item itemvalue="Application.TemplateMethodMain" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +164,7 @@
       <workItem from="1726587605997" duration="853000" />
       <workItem from="1726603987772" duration="12576000" />
       <workItem from="1726767560142" duration="12103000" />
-      <workItem from="1727002234213" duration="1166000" />
+      <workItem from="1727002234213" duration="6039000" />
     </task>
     <servers />
   </component>
