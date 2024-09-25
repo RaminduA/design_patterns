@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3aba896f-9199-4936-acc6-02b314fef2a7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Behavioral Patterns/Command/CommandMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Behavioral Patterns/Command/CommandMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,8 +50,10 @@
     "Application.AbstractFactoryMain.executor": "Run",
     "Application.AdapterMain.executor": "Run",
     "Application.ChainOfResponsibilityMain.executor": "Run",
+    "Application.CommandMain.executor": "Run",
     "Application.DecoratorMain.executor": "Run",
     "Application.FactoryMain.executor": "Run",
+    "Application.FlyweightMain.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MediatorMain.executor": "Run",
     "Application.MementoMain.executor": "Run",
@@ -90,16 +91,16 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CommandMain">
-    <configuration name="AbstractFactoryMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AbstractFactoryMain" />
+  <component name="RunManager" selected="Application.FlyweightMain">
+    <configuration name="CommandMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CommandMain" />
       <module name="Design Patterns" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CommandMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CommandMain" />
+    <configuration name="FlyweightMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FlyweightMain" />
       <module name="Design Patterns" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -127,19 +128,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.FlyweightMain" />
       <item itemvalue="Application.CommandMain" />
       <item itemvalue="Application.PrototypeMain" />
       <item itemvalue="Application.ProxyMain" />
       <item itemvalue="Application.StateMain" />
-      <item itemvalue="Application.AbstractFactoryMain" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FlyweightMain" />
         <item itemvalue="Application.CommandMain" />
         <item itemvalue="Application.PrototypeMain" />
         <item itemvalue="Application.StateMain" />
         <item itemvalue="Application.ProxyMain" />
-        <item itemvalue="Application.AbstractFactoryMain" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +166,8 @@
       <workItem from="1726587605997" duration="853000" />
       <workItem from="1726603987772" duration="12576000" />
       <workItem from="1726767560142" duration="12103000" />
-      <workItem from="1727002234213" duration="13634000" />
+      <workItem from="1727002234213" duration="15685000" />
+      <workItem from="1727042249058" duration="1671000" />
     </task>
     <servers />
   </component>
