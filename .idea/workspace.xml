@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="3aba896f-9199-4936-acc6-02b314fef2a7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Behavioral Patterns/Visitor/ElementB.java" beforeDir="false" afterPath="$PROJECT_DIR$/Behavioral Patterns/Visitor/ElementB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Behavioral Patterns/Visitor/ElementC.java" beforeDir="false" afterPath="$PROJECT_DIR$/Behavioral Patterns/Visitor/ElementC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Behavioral Patterns/Visitor/VisitorB.java" beforeDir="false" afterPath="$PROJECT_DIR$/Behavioral Patterns/Visitor/VisitorB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Behavioral Patterns/Visitor/VisitorMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Behavioral Patterns/Visitor/VisitorMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +67,7 @@
     "Application.SingletonMain.executor": "Run",
     "Application.StateMain.executor": "Run",
     "Application.TemplateMethodMain.executor": "Run",
+    "Application.VisitorMain.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "master",
@@ -92,7 +97,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ObserverMain">
+  <component name="RunManager" selected="Application.VisitorMain">
     <configuration name="CommandMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CommandMain" />
       <module name="Design Patterns" />
@@ -121,27 +126,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StateMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StateMain" />
+    <configuration name="VisitorMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VisitorMain" />
       <module name="Design Patterns" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.VisitorMain" />
       <item itemvalue="Application.ObserverMain" />
       <item itemvalue="Application.FlyweightMain" />
       <item itemvalue="Application.CommandMain" />
       <item itemvalue="Application.PrototypeMain" />
-      <item itemvalue="Application.StateMain" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VisitorMain" />
         <item itemvalue="Application.ObserverMain" />
         <item itemvalue="Application.FlyweightMain" />
         <item itemvalue="Application.CommandMain" />
         <item itemvalue="Application.PrototypeMain" />
-        <item itemvalue="Application.StateMain" />
       </list>
     </recent_temporary>
   </component>
@@ -170,6 +175,7 @@
       <workItem from="1727002234213" duration="15685000" />
       <workItem from="1727042249058" duration="1671000" />
       <workItem from="1727266991505" duration="4281000" />
+      <workItem from="1727275870713" duration="2171000" />
     </task>
     <servers />
   </component>
