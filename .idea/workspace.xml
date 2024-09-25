@@ -57,6 +57,7 @@
     "Application.Main.executor": "Run",
     "Application.MediatorMain.executor": "Run",
     "Application.MementoMain.executor": "Run",
+    "Application.ObserverMain.executor": "Run",
     "Application.PrototypeMain.executor": "Run",
     "Application.ProxyMain.executor": "Run",
     "Application.SingletonMain.executor": "Run",
@@ -91,7 +92,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FlyweightMain">
+  <component name="RunManager" selected="Application.ObserverMain">
     <configuration name="CommandMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CommandMain" />
       <module name="Design Patterns" />
@@ -106,15 +107,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrototypeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrototypeMain" />
+    <configuration name="ObserverMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObserverMain" />
       <module name="Design Patterns" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProxyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProxyMain" />
+    <configuration name="PrototypeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrototypeMain" />
       <module name="Design Patterns" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -128,19 +129,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.ObserverMain" />
       <item itemvalue="Application.FlyweightMain" />
       <item itemvalue="Application.CommandMain" />
       <item itemvalue="Application.PrototypeMain" />
-      <item itemvalue="Application.ProxyMain" />
       <item itemvalue="Application.StateMain" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ObserverMain" />
         <item itemvalue="Application.FlyweightMain" />
         <item itemvalue="Application.CommandMain" />
         <item itemvalue="Application.PrototypeMain" />
         <item itemvalue="Application.StateMain" />
-        <item itemvalue="Application.ProxyMain" />
       </list>
     </recent_temporary>
   </component>
@@ -168,6 +169,7 @@
       <workItem from="1726767560142" duration="12103000" />
       <workItem from="1727002234213" duration="15685000" />
       <workItem from="1727042249058" duration="1671000" />
+      <workItem from="1727266991505" duration="4281000" />
     </task>
     <servers />
   </component>
