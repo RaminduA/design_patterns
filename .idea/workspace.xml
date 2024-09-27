@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3aba896f-9199-4936-acc6-02b314fef2a7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational Patterns/Builder/BuilderMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Patterns/Builder/BuilderMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +63,7 @@
     &quot;Application.ProxyMain.executor&quot;: &quot;Run&quot;,
     &quot;Application.SingletonMain.executor&quot;: &quot;Run&quot;,
     &quot;Application.StateMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StrategyMain.executor&quot;: &quot;Run&quot;,
     &quot;Application.TemplateMethodMain.executor&quot;: &quot;Run&quot;,
     &quot;Application.VisitorMain.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -93,9 +95,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StrategyMain">
-    <configuration name="CommandMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CommandMain" />
+  <component name="RunManager" selected="Application.BuilderMain">
+    <configuration name="BuilderMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BuilderMain" />
       <module name="Design Patterns" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -130,19 +132,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.BuilderMain" />
       <item itemvalue="Application.StrategyMain" />
       <item itemvalue="Application.VisitorMain" />
       <item itemvalue="Application.ObserverMain" />
       <item itemvalue="Application.FlyweightMain" />
-      <item itemvalue="Application.CommandMain" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BuilderMain" />
         <item itemvalue="Application.StrategyMain" />
         <item itemvalue="Application.VisitorMain" />
         <item itemvalue="Application.ObserverMain" />
         <item itemvalue="Application.FlyweightMain" />
-        <item itemvalue="Application.CommandMain" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +175,8 @@
       <workItem from="1727266991505" duration="4281000" />
       <workItem from="1727275870713" duration="2470000" />
       <workItem from="1727279479946" duration="1242000" />
-      <workItem from="1727358763538" duration="3742000" />
+      <workItem from="1727358763538" duration="4367000" />
+      <workItem from="1727459402027" duration="2283000" />
     </task>
     <servers />
   </component>
