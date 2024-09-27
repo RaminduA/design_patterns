@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3aba896f-9199-4936-acc6-02b314fef2a7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Creational Patterns/Builder/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational Patterns/Builder/Builder1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational Patterns/Builder/Builder2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational Patterns/Builder/BuilderMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational Patterns/Builder/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational Patterns/Builder/Product1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational Patterns/Builder/Product2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational Patterns/Builder/BuilderMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Creational Patterns/Builder/BuilderMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,43 +52,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AbstractFactoryMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AdapterMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ChainOfResponsibilityMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CommandMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DecoratorMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FactoryMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FlyweightMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MediatorMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MementoMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ObserverMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrototypeMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ProxyMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SingletonMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StateMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StrategyMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TemplateMethodMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VisitorMain.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/RAMINDU/Desktop/Design Patterns&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AbstractFactoryMain.executor": "Run",
+    "Application.AdapterMain.executor": "Run",
+    "Application.BuilderMain.executor": "Run",
+    "Application.ChainOfResponsibilityMain.executor": "Run",
+    "Application.CommandMain.executor": "Run",
+    "Application.DecoratorMain.executor": "Run",
+    "Application.FactoryMain.executor": "Run",
+    "Application.FlyweightMain.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MediatorMain.executor": "Run",
+    "Application.MementoMain.executor": "Run",
+    "Application.ObserverMain.executor": "Run",
+    "Application.PrototypeMain.executor": "Run",
+    "Application.ProxyMain.executor": "Run",
+    "Application.SingletonMain.executor": "Run",
+    "Application.StateMain.executor": "Run",
+    "Application.StrategyMain.executor": "Run",
+    "Application.TemplateMethodMain.executor": "Run",
+    "Application.VisitorMain.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/RAMINDU/Desktop/Design Patterns",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "show.migrate.to.gradle.popup": "false",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
@@ -176,7 +183,7 @@
       <workItem from="1727275870713" duration="2470000" />
       <workItem from="1727279479946" duration="1242000" />
       <workItem from="1727358763538" duration="4367000" />
-      <workItem from="1727459402027" duration="2283000" />
+      <workItem from="1727459402027" duration="2383000" />
     </task>
     <servers />
   </component>
