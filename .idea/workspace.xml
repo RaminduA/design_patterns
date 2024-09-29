@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="3aba896f-9199-4936-acc6-02b314fef2a7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Structural Patterns/Composite/CompositeMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Structural Patterns/Composite/CompositeMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Structural Patterns/Composite/Leaf.java" beforeDir="false" afterPath="$PROJECT_DIR$/Structural Patterns/Composite/Leaf.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +54,7 @@
     "Application.BuilderMain.executor": "Run",
     "Application.ChainOfResponsibilityMain.executor": "Run",
     "Application.CommandMain.executor": "Run",
+    "Application.CompositeMain.executor": "Run",
     "Application.DecoratorMain.executor": "Run",
     "Application.FacadeMain.executor": "Run",
     "Application.FactoryMain.executor": "Run",
@@ -96,7 +99,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FacadeMain">
+  <component name="RunManager" selected="Application.CompositeMain">
     <configuration name="BuilderMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BuilderMain" />
       <module name="Design Patterns" />
@@ -104,15 +107,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FacadeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FacadeMain" />
+    <configuration name="CompositeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CompositeMain" />
       <module name="Design Patterns" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObserverMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObserverMain" />
+    <configuration name="FacadeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FacadeMain" />
       <module name="Design Patterns" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -133,19 +136,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.CompositeMain" />
       <item itemvalue="Application.FacadeMain" />
       <item itemvalue="Application.BuilderMain" />
       <item itemvalue="Application.StrategyMain" />
       <item itemvalue="Application.VisitorMain" />
-      <item itemvalue="Application.ObserverMain" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CompositeMain" />
         <item itemvalue="Application.FacadeMain" />
         <item itemvalue="Application.BuilderMain" />
         <item itemvalue="Application.StrategyMain" />
         <item itemvalue="Application.VisitorMain" />
-        <item itemvalue="Application.ObserverMain" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +182,8 @@
       <workItem from="1727358763538" duration="4367000" />
       <workItem from="1727459402027" duration="2383000" />
       <workItem from="1727461804757" duration="284000" />
-      <workItem from="1727544552804" duration="1639000" />
+      <workItem from="1727544552804" duration="1890000" />
+      <workItem from="1727546575199" duration="3629000" />
     </task>
     <servers />
   </component>
