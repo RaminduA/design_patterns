@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="3aba896f-9199-4936-acc6-02b314fef2a7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Behavioral Patterns/Iterator/BFSIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Behavioral Patterns/Iterator/BFSIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Behavioral Patterns/Iterator/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/Behavioral Patterns/Iterator/BinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Behavioral Patterns/Iterator/IteratorMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Behavioral Patterns/Iterator/IteratorMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,7 +186,7 @@
       <workItem from="1727461804757" duration="284000" />
       <workItem from="1727544552804" duration="1890000" />
       <workItem from="1727546575199" duration="4055000" />
-      <workItem from="1727670525011" duration="23959000" />
+      <workItem from="1727670525011" duration="40074000" />
     </task>
     <servers />
   </component>

@@ -1,8 +1,8 @@
-public class BFSIterator implements Iterator {
+public class DFSIterator implements Iterator {
     private final BinaryTreeCollection collection;
     private int index;
 
-    public BFSIterator(BinaryTreeCollection collection) {
+    public DFSIterator(BinaryTreeCollection collection) {
         this.collection = collection;
         index = 0;
     }
@@ -14,7 +14,7 @@ public class BFSIterator implements Iterator {
 
     @Override
     public int getNext() {
-        return collection.getTree().getValueBfs(index++);
+        return collection.getTree().getValueDfs(index++);
     }
 
     @Override

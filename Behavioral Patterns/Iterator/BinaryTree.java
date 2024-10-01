@@ -1,5 +1,4 @@
-import java.util.ArrayList;
-import java.util.List;
+import java.util.*;
 
 public class BinaryTree{
     private int value;
@@ -130,20 +129,63 @@ public class BinaryTree{
     }
 
     public int getValueBfs(int index){
-        if (index == 0){
-            return this.getValue();
-        }else if (index == 1){
-            if(this.hasLeft()){
-                return this.getLeft().getValue();
-            }else{
-                return this.getRight().getValue();
-            }
-        }else if (index == 2){
-            if(this.hasLeft()){
-                return this.getRight().getValue();
-            }else{
-                return this.getRight().getValueBfs(1);
+        Queue<BinaryTree> queue = new LinkedList<>();
+        List<Integer> list = new ArrayList<>();
+
+        queue.add(this);
+        list.add(this.getValue());
+
+        while(index != 0){
+            if (queue.peek() != null) {
+                BinaryTree peek = queue.poll();
+
+                if (peek.hasLeft()) {
+                    queue.add(peek.getLeft());
+                    list.add(peek.getLeft().getValue());
+                    --index;
+                }
+
+                if (index == 0) break;
+
+                if (peek.hasRight()) {
+                    queue.add(peek.getRight());
+                    list.add(peek.getRight().getValue());
+                    --index;
+                }
             }
         }
+
+        return list.get(list.size() - 1);
+    }
+
+    public int getValueDfs(int index){
+        Stack<BinaryTree> stack = new Stack<>();
+        List<Integer> list = new ArrayList<>();
+
+        int size = this.size();
+
+        stack.add(this);
+
+        while(size != 1){
+            if (stack.peek() != null) {
+                BinaryTree peek = stack.pop();
+                list.add(peek.getValue());
+
+                --size;
+
+                if (peek.hasRight()) {
+                    stack.add(peek.getRight());
+                }
+
+                if (peek.hasLeft()) {
+                    stack.add(peek.getLeft());
+                }
+            }
+        }
+
+        BinaryTree peek = stack.pop();
+        list.add(peek.getValue());
+
+        return list.get(index);
     }
 }
