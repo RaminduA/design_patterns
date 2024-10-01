@@ -6,9 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="3aba896f-9199-4936-acc6-02b314fef2a7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Behavioral Patterns/Iterator/BFSIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Behavioral Patterns/Iterator/BFSIterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Behavioral Patterns/Iterator/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/Behavioral Patterns/Iterator/BinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Behavioral Patterns/Iterator/IteratorMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Behavioral Patterns/Iterator/IteratorMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Structural Patterns/Bridge/BridgeMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Structural Patterns/Bridge/BridgeMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Structural Patterns/Bridge/ConcreteImplementationA.java" beforeDir="false" afterPath="$PROJECT_DIR$/Structural Patterns/Bridge/ConcreteImplementationA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Structural Patterns/Bridge/ConcreteImplementationB.java" beforeDir="false" afterPath="$PROJECT_DIR$/Structural Patterns/Bridge/ConcreteImplementationB.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +52,7 @@
   "keyToString": {
     "Application.AbstractFactoryMain.executor": "Run",
     "Application.AdapterMain.executor": "Run",
+    "Application.BridgeMain.executor": "Debug",
     "Application.BuilderMain.executor": "Run",
     "Application.ChainOfResponsibilityMain.executor": "Run",
     "Application.CommandMain.executor": "Run",
@@ -101,7 +102,14 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IteratorMain">
+  <component name="RunManager" selected="Application.BridgeMain">
+    <configuration name="BridgeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BridgeMain" />
+      <module name="Design Patterns" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BuilderMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BuilderMain" />
       <module name="Design Patterns" />
@@ -130,27 +138,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StrategyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StrategyMain" />
-      <module name="Design Patterns" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="Application.BridgeMain" />
       <item itemvalue="Application.IteratorMain" />
       <item itemvalue="Application.CompositeMain" />
       <item itemvalue="Application.FacadeMain" />
       <item itemvalue="Application.BuilderMain" />
-      <item itemvalue="Application.StrategyMain" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BridgeMain" />
         <item itemvalue="Application.IteratorMain" />
         <item itemvalue="Application.CompositeMain" />
         <item itemvalue="Application.FacadeMain" />
         <item itemvalue="Application.BuilderMain" />
-        <item itemvalue="Application.StrategyMain" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +187,7 @@
       <workItem from="1727461804757" duration="284000" />
       <workItem from="1727544552804" duration="1890000" />
       <workItem from="1727546575199" duration="4055000" />
-      <workItem from="1727670525011" duration="40074000" />
+      <workItem from="1727670525011" duration="42213000" />
     </task>
     <servers />
   </component>
